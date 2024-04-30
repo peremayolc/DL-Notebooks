@@ -5,6 +5,6 @@ Jupyter Notebooks for Neural Networks and Deep Learning course, Artificial Intel
 4. [P4_Intro_MLPs](https://github.com/peremayolc/DL-Notebooks/blob/main/P4_Intro_MLPs_PereMayol(4).ipynb)
 5. [P5_MLP_for_Images](https://github.com/peremayolc/DL-Notebooks/blob/main/P5_MLP_for_Images.ipynb)
 6. [P6_Intro_to_CNN](https://github.com/peremayolc/DL-Notebooks/blob/main/P6_Intro_to_CNN.ipynb)
-7. [P7_PretrainedModelsFinetuning]()
+7. [P7_PretrainedModelsFinetuning](https://github.com/peremayolc/DL-Notebooks/blob/main/P7_PretrainedModelsFinetuning_PereMayol.ipynb)
 8. [P8_Autoencoders](https://github.com/peremayolc/DL-Notebooks/blob/main/P8_Autoencoders_PereMayol.ipynb)
 9. [P9_RNNs](https://github.com/peremayolc/DL-Notebooks/blob/main/P9_RNNs_PereMayol.ipynb)
