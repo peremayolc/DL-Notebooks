@@ -8,3 +8,4 @@ Jupyter Notebooks for Neural Networks and Deep Learning course, Artificial Intel
 7. [P7_PretrainedModelsFinetuning](https://github.com/peremayolc/DL-Notebooks/blob/main/P7_PretrainedModelsFinetuning_PereMayol.ipynb)
 8. [P8_Autoencoders](https://github.com/peremayolc/DL-Notebooks/blob/main/P8_Autoencoders_PereMayol.ipynb)
 9. [P9_RNNs](https://github.com/peremayolc/DL-Notebooks/blob/main/P9_RNNs_PereMayol.ipynb)
+10. [P10_Attention](https://github.com/peremayolc/DL-Notebooks/blob/main/P10_Attention_PereMayol.ipynb)
