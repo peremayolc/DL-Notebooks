@@ -1,4 +1,4 @@
-Jupyter Notebooks for Neural Networks and Deep Learning course, Artificial Intelligence degree second year. They are found in the following order:
+Jupyter Notebooks for Neural Networks and Deep Learning course, Artificial Intelligence degree second year. We did them in the following order, based on the theoretical lessons we had that week:
 1. [P1, AutoGrad on Scalars](https://github.com/peremayolc/DL-Notebooks/blob/main/P1_AutoGrad_onScalars.ipynb)
 2. [P2, Using AutoGrad](https://github.com/peremayolc/DL-Notebooks/blob/main/P2_UsingAutoGrad_PereMayol.ipynb)
 3. [P3, Intro to pytorch](https://github.com/peremayolc/DL-Notebooks/blob/main/P3_Intro_Pytorch_Tensors_PereMayol.ipynb)
